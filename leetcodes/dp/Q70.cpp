@@ -1,4 +1,3 @@
-#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -21,10 +20,3 @@ public:
         return dp[n - 1];
     }
 };
-
-int main()
-{
-    Solution solution;
-    solution.climbStairs(5);
-    return 0;
-}

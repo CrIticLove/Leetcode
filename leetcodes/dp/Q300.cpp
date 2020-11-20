@@ -1,4 +1,3 @@
-#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -25,13 +24,3 @@ public:
         return *max_element(dp.begin(), dp.end());
     }
 };
-
-int main()
-{
-    Solution solution;
-    int vec[9] = {7, 7, 7, 7, 7, 7, 7, 7, 7};
-    vector<int> a(vec, vec + 9);
-    auto ans = solution.lengthOfLIS(a);
-    cout << ans;
-    return 0;
-}
