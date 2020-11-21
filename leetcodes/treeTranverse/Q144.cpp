@@ -1,4 +1,3 @@
-#include <algorithm>
 #include <vector>
 using namespace std;
 
@@ -13,4 +12,21 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-c
+class Solution
+{
+public:
+    vector<int> ans;
+    vector<int> preorderTraversal(TreeNode *root)
+    {
+        tranverse(root);
+        return ans;
+    }
+    void tranverse(TreeNode *root)
+    {
+        if (!root)
+            return;
+        ans.push_back(root->val);
+        tranverse(root->left);
+        tranverse(root->right);
+    }
+};
