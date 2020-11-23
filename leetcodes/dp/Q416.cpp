@@ -21,20 +21,17 @@ public:
         if (*max_element(nums.begin(), nums.end()) > sum)
             return false;
         vector<bool> dp(sum + 1, false);
-        vector<bool> dp_temp(dp);
         dp[0] = true;
         dp[nums[0]] = true;
         for (int i = 1; i < nums.size(); i++)
         {
-            dp_temp = dp;
-            for (int j = 1; j <= sum; j++)
+            for (int j = sum; j >= 0; j--)
             {
                 if (nums[i] <= j)
                 {
-                    dp_temp[j] = dp[j] || dp[j - nums[i]];
+                    dp[j] = dp[j] || dp[j - nums[i]];
                 }
             }
-            dp = dp_temp;
         }
         return dp[sum];
     }
