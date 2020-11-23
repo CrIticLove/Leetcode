@@ -2,6 +2,7 @@
 #include <algorithm>
 using namespace std;
 
+// 状态压缩
 class Solution
 {
 public:
@@ -39,6 +40,7 @@ public:
     }
 };
 
+// 未状态压缩
 class Solution_Without_State_Compress
 {
 public:
