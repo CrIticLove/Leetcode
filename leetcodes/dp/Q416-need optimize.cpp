@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 class Solution
@@ -17,6 +18,8 @@ public:
         if (sum % 2 != 0)
             return false;
         sum /= 2;
+        if (*max_element(nums.begin(), nums.end()) > sum)
+            return false;
         vector<vector<bool>> dp(nums.size(), vector<bool>(sum + 1, false));
         for (int i = 0; i < nums.size(); i++)
         {
@@ -43,7 +46,7 @@ public:
 
 int main()
 {
-    vector<int> param{100};
+    vector<int> param{99, 1};
     Solution solution;
     solution.canPartition(param);
 }
