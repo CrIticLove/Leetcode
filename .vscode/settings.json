@@ -9,6 +9,7 @@
         "type_traits": "cpp",
         "xhash": "cpp",
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "stack": "cpp"
     }
 }
