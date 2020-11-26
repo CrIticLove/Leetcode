@@ -31,13 +31,13 @@ public:
             // pop all the buckets
             for (auto &vec : bucket)
             {
-                for (auto ele : vec)
+                for (auto &ele : vec)
                 {
                     numsCopy.push_back(ele);
                 }
                 vec.clear();
             }
-            for (auto num : numsCopy)
+            for (auto &num : numsCopy)
             {
                 // sort by present digit
                 tempNum = num;
