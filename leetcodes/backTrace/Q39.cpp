@@ -24,7 +24,7 @@ public:
 
     void DFS(int index, vector<int> &candidates, int target)
     {
-        static const int len = candidates.size();
+        const int len = candidates.size();
         int sum = 0;
         for (int num : temp)
         {
@@ -32,8 +32,7 @@ public:
         }
         if (sum == target)
             ansSet.insert(temp);
-            temp.pop_back();
-        if (index >= len)
+        if (index >= len || sum >= target)
             return;
         if (candidates[index] + sum <= target)
         {
