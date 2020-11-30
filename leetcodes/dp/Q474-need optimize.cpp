@@ -1,4 +1,3 @@
-// 474. 一和零
 #include <vector>
 #include <string>
 #include <algorithm>
