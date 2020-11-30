@@ -10,6 +10,7 @@
         "xhash": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "iterator": "cpp"
     }
 }
