@@ -5,6 +5,7 @@ using namespace std;
 class Solution
 {
 public:
+    // defeat 100%
     string removeKdigits(string num, int k)
     {
         const int len = num.length();
@@ -15,7 +16,6 @@ public:
             return "0";
         for (int i = 0; i < len; ++i)
         {
-            // take num[i] and decide whether to put into the answer
             j = ans.length() - 1;
             while (j >= 0 && k > 0)
             {
