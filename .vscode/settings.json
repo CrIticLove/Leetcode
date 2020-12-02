@@ -12,6 +12,7 @@
         "xutility": "cpp",
         "stack": "cpp",
         "iterator": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "string": "cpp"
     }
 }
