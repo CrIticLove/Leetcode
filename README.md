@@ -37,7 +37,7 @@
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
 - [Q416.分割等和子集](/leetcodes/dp/Q416.cpp)
-<!-- - [Q474.一和零](/leetcodes/dp/Q474.cpp) -->
+- [Q474.一和零](/leetcodes/dp/Q474.cpp)
 
 ## 贪心算法
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
