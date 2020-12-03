@@ -6,6 +6,7 @@
   - [链表](#链表)
   - [回溯](#回溯)
   - [动态规划](#动态规划)
+      - [背包问题](#背包问题)
   - [贪心算法](#贪心算法)
   - [哈希](#哈希)
   - [递归](#递归)
@@ -30,11 +31,13 @@
 - [Q70.爬楼梯](/leetcodes/dp/Q70.cpp)
 - [Q118.杨辉三角](/leetcodes/dp/Q118.cpp)
 - [Q300.最长上升子序列](/leetcodes/dp/Q300.cpp)
+- [Q1143.最长公共子序列](/leetcodes/dp/Q1143.cpp)
+- [Q1277.统计全为1的正方形子矩阵](/leetcodes/dp/Q1277.cpp)
+
+#### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
 - [Q416.分割等和子集](/leetcodes/dp/Q416.cpp)
 <!-- - [Q474.一和零](/leetcodes/dp/Q474.cpp) -->
-- [Q1143.最长公共子序列](/leetcodes/dp/Q1143.cpp)
-- [Q1277.统计全为1的正方形子矩阵](/leetcodes/dp/Q1277.cpp)
 
 ## 贪心算法
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
