@@ -8,6 +8,7 @@ private:
     set<vector<int>> set;
     vector<vector<int>> ans;
     vector<int> temp;
+    vector<int> tempsort;
 
 public:
     vector<vector<int>> combinationSum2(vector<int> &candidates, int target)
@@ -31,7 +32,9 @@ public:
         if (candidates[index] == target)
         {
             temp.push_back(candidates[index]);
-            set.insert(temp);
+            tempsort = temp;
+            sort(tempsort.begin(), tempsort.end());
+            set.insert(tempsort);
             temp.pop_back();
             DFS(index + 1, candidates, target);
             return;

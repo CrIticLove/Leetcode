@@ -24,7 +24,7 @@
 
 ## 回溯
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
-<!-- - [Q40.组合总和 II](/leetcodes/backTrace/Q40.cpp) -->
+- [Q40.组合总和 II](/leetcodes/backTrace/Q40.cpp)
 
 ## 动态规划
 - [Q62.不同路径](/leetcodes/dp/Q62.cpp)
