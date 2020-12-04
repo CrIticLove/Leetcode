@@ -17,12 +17,12 @@ public:
             if (isPrime[i])
             {
                 ++ans;
-            }
-            if ((long long)(i)*i < n)
-            {
-                for (temp = i * i; temp < n; temp += i)
+                if ((long long)(i)*i < n)
                 {
-                    isPrime[temp] = false;
+                    for (temp = i * i; temp < n; temp += i)
+                    {
+                        isPrime[temp] = false;
+                    }
                 }
             }
         }
@@ -31,47 +31,30 @@ public:
 };
 
 //  奇数筛
-class Solution_odd
+class Solution_Odd
 {
 public:
     int countPrimes(int n)
     {
         if (n == 0 || n == 1 || n == 2)
             return 0;
-        const int len = n / 2 - 1;
-        vector<bool> vec(len, true);
+        vector<bool> isPrime(n / 2 - 1, true);
+        int ans = 1;
         int temp;
-        long long t;
         for (int i = 3; i < n; i += 2)
         {
-            if (!(vec[(i - 3) / 2]))
-                continue;
-            if (isPrime(i))
+            if (isPrime[(i - 3) / 2])
             {
-                for (t = (long long)(i) * (long long)(i); t <= n; t += 2 * i)
+                ++ans;
+                if ((long long)(i)*i < n)
                 {
-                    vec[(t - 3) / 2] = false;
+                    for (temp = i * i; temp < n; temp += 2 * i)
+                    {
+                        isPrime[(temp - 3) / 2] = false;
+                    }
                 }
             }
         }
-        temp = 0;
-        for (bool b : vec)
-        {
-            if (b)
-            {
-                ++temp;
-            }
-        }
-        return temp + 1;
-    }
-
-    bool isPrime(int n)
-    {
-        for (int i = 2; i * i < n; ++i)
-        {
-            if (n % i == 0)
-                return false;
-        }
-        return true;
+        return ans;
     }
 };
