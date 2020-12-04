@@ -8,13 +8,12 @@ private:
     set<vector<int>> set;
     vector<vector<int>> ans;
     vector<int> temp;
-    vector<int> tempsort;
-
 public:
     vector<vector<int>> combinationSum2(vector<int> &candidates, int target)
     {
         if (target == 0)
             return ans;
+        sort(candidates.begin(), candidates.end());
         DFS(0, candidates, target);
         std::set<vector<int>>::iterator it = set.begin();
         while (it != set.end())
@@ -32,11 +31,8 @@ public:
         if (candidates[index] == target)
         {
             temp.push_back(candidates[index]);
-            tempsort = temp;
-            sort(tempsort.begin(), tempsort.end());
-            set.insert(tempsort);
+            set.insert(temp);
             temp.pop_back();
-            DFS(index + 1, candidates, target);
             return;
         }
         if (candidates[index] < target)
@@ -49,7 +45,6 @@ public:
         }
         if (candidates[index] > target)
         {
-            DFS(index + 1, candidates, target);
             return;
         }
     }
