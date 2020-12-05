@@ -41,6 +41,7 @@
 
 ## 贪心算法
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
+- [Q621.任务调度器](/leetcodes/greedy/Q621.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
