@@ -25,7 +25,8 @@ public:
     {
         if (!root)
         {
-            dp.insert(make_pair(root, 0));
+            // 不插入叶节点比较快和省内存
+            // dp.insert(make_pair(root, 0));
             return 0;
         }
         it = dp.find(root);
