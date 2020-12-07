@@ -12,6 +12,7 @@
   - [递归](#递归)
   - [树遍历](#树遍历)
   - [数字](#数字)
+  - [字符串](#字符串)
   - [其它](#其它)
       - [单调栈](#单调栈)
 
@@ -56,6 +57,13 @@
 
 ## 数字
 - [Q204.计数质数](/leetcodes/number/Q204.cpp)
+
+## 字符串
+- [Q14.最长公共前缀](/leetcodes/string/Q14.cpp)
+- [Q28.实现 strStr() JS](/leetcodes/string/Q28.js)
+- [Q767.重构字符串](/leetcodes/string/Q767.cpp)
+- [Q1370.上升下降字符串 C++](/leetcodes/string/Q1370.cpp)
+- [Q1370.上升下降字符串 JS](/leetcodes/string/Q1370.js)
 
 ## 其它
 
