@@ -14,6 +14,7 @@
         "iterator": "cpp",
         "__locale": "cpp",
         "string": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "unordered_map": "cpp"
     }
 }
