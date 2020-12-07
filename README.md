@@ -37,6 +37,7 @@
 - [Q198.打家劫舍](/leetcodes/dp/Q198.cpp)
 - [Q213.打家劫舍 II](/leetcodes/dp/Q213.cpp)
 - [Q337.打家劫舍 III](/leetcodes/dp/Q337.cpp)
+- [Q1046.最后一块石头的重量](/leetcodes/dp/Q1046.cpp)
 
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
