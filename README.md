@@ -26,6 +26,7 @@
 ## 回溯
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
 - [Q40.组合总和 II](/leetcodes/backTrace/Q40.cpp)
+- [Q842.将数组拆分成斐波那契序列](/leetcodes/backTrace/Q842.cpp)
 
 ## 动态规划
 - [Q62.不同路径](/leetcodes/dp/Q62.cpp)
