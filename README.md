@@ -29,12 +29,13 @@
 - [Q842.将数组拆分成斐波那契序列](/leetcodes/backTrace/Q842.cpp)
 
 ## 动态规划
-- [Q62.不同路径](/leetcodes/dp/Q62.cpp)
 - [Q70.爬楼梯](/leetcodes/dp/Q70.cpp)
 - [Q118.杨辉三角](/leetcodes/dp/Q118.cpp)
 - [Q300.最长上升子序列](/leetcodes/dp/Q300.cpp)
 - [Q1143.最长公共子序列](/leetcodes/dp/Q1143.cpp)
 - [Q1277.统计全为1的正方形子矩阵](/leetcodes/dp/Q1277.cpp)
+- [Q62.不同路径](/leetcodes/dp/Q62.cpp)
+- [Q63.不同路径 II](/leetcodes/dp/Q63.cpp)
 - [Q198.打家劫舍](/leetcodes/dp/Q198.cpp)
 - [Q213.打家劫舍 II](/leetcodes/dp/Q213.cpp)
 - [Q337.打家劫舍 III](/leetcodes/dp/Q337.cpp)
