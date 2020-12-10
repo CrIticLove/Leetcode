@@ -52,6 +52,7 @@
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
 - [Q621.任务调度器](/leetcodes/greedy/Q621.cpp)
 - [Q861.翻转矩阵后的得分](/leetcodes/greedy/Q861.cpp)
+- [Q860.柠檬水找零](/leetcodes/greedy/Q860.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
