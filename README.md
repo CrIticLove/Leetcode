@@ -15,6 +15,7 @@
   - [字符串](#字符串)
   - [其它](#其它)
       - [单调栈](#单调栈)
+      - [模拟](#模拟)
 
 ## 数组
 - [Q34.在排序数组中查找元素的第一个和最后一个位置](/leetcodes/array/Q34.cpp)
@@ -81,3 +82,7 @@
 
 - [Q402.移掉K位数字](/leetcodes/others/Q402.cpp)
 - [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
+- [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
+
+#### 模拟
+- [Q649.Dota2 参议院](/leetcodes/others/Q649.cpp)
