@@ -15,6 +15,7 @@
   - [字符串](#字符串)
   - [其它](#其它)
       - [单调栈](#单调栈)
+      - [模拟](#模拟)
 
 ## 数组
 - [Q34.在排序数组中查找元素的第一个和最后一个位置](/leetcodes/array/Q34.cpp)
@@ -54,6 +55,7 @@
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
 - [Q621.任务调度器](/leetcodes/greedy/Q621.cpp)
 - [Q861.翻转矩阵后的得分](/leetcodes/greedy/Q861.cpp)
+- [Q860.柠檬水找零](/leetcodes/greedy/Q860.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
@@ -81,3 +83,7 @@
 
 - [Q402.移掉K位数字](/leetcodes/others/Q402.cpp)
 - [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
+- [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
+
+#### 模拟
+- [Q649.Dota2 参议院](/leetcodes/others/Q649.cpp)
