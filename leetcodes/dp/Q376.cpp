@@ -1,6 +1,5 @@
 #include <vector>
 #include <algorithm>
-#include <iostream>
 using namespace std;
 
 class Solution
@@ -106,10 +105,3 @@ public:
         return max(large[len - 1], small[len - 1]);
     }
 };
-
-int main()
-{
-    Solution solution = Solution();
-    vector<int> v{1, 7, 4, 9, 2, 5};
-    solution.wiggleMaxLength(v);
-}
