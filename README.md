@@ -56,6 +56,7 @@
 - [Q621.任务调度器](/leetcodes/greedy/Q621.cpp)
 - [Q861.翻转矩阵后的得分](/leetcodes/greedy/Q861.cpp)
 - [Q860.柠檬水找零](/leetcodes/greedy/Q860.cpp)
+- [Q738.单调递增的数字](/leetcodes/greedy/Q738.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
