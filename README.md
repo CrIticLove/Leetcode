@@ -92,6 +92,7 @@
 
 #### 模拟
 - [Q649.Dota2 参议院](/leetcodes/others/Q649.cpp)
+- [Q121.买卖股票的最佳时机](/leetcodes/others/Q121.cpp)
+- [Q122.买卖股票的最佳时机 II](/leetcodes/others/Q122.cpp)
 
 #### 双指针
-- [Q121.买卖股票的最佳时机](/leetcodes/others/Q121.cpp)
