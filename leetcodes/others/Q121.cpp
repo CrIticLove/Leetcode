@@ -7,7 +7,7 @@ public:
     int maxProfit(vector<int> &prices)
     {
         const int len = prices.size();
-        if (len == 0 || len == 1)
+        if (len < 2)
             return 0;
         int small = 0, end = 1;
         int ans = 0;
