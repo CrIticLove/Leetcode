@@ -70,6 +70,7 @@
 - [Q217.存在重复元素](/leetcodes/hash/Q217.cpp)
 - [Q49.字母异位词分组](/leetcodes/hash/Q49.cpp)
 - [Q290.单词规律](/leetcodes/hash/Q290.cpp)
+- [Q41.缺失的第一个正数](/leetcodes/hash/Q41.cpp)
 - [剑指Offer03.数组中的重复数字](/leetcodes/hash/JZ03.cpp)
 
 ## 递归
@@ -91,7 +92,6 @@
 #### 单调栈
 
 - [Q402.移掉K位数字](/leetcodes/others/Q402.cpp)
-- [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
 - [Q321.拼接最大数](/leetcodes/others/Q321.cpp)
 
 #### 模拟
