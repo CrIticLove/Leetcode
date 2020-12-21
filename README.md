@@ -51,7 +51,7 @@
 - [Q188.买卖股票的最佳时机 IV](/leetcodes/dp/Q188.cpp)
 - [Q714.买卖股票的最佳时机含手续费](/leetcodes/dp/Q714.cpp)
 - [Q309.买卖股票的最佳时机含冷冻期](/leetcodes/dp/Q309.cpp)
-- [746.使用最小话费爬楼梯](/leetcodes/dp/Q746.cpp)
+- [746.使用最小花费爬楼梯](/leetcodes/dp/Q746.cpp)
 
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
