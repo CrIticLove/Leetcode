@@ -15,6 +15,7 @@
         "__locale": "cpp",
         "string": "cpp",
         "utility": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "ostream": "cpp"
     }
 }
