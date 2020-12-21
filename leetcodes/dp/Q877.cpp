@@ -17,7 +17,7 @@ public:
         {
             for (int i = 0; i < len - l; ++i)
             {
-                dp[i][i + l] = max(abs(piles[i] - dp[i + 1][i + l]), abs(piles[i + l] - dp[i][i + l - 1]));
+                dp[i][i + l] = max((piles[i] - dp[i + 1][i + l]), (piles[i + l] - dp[i][i + l - 1]));
             }
         }
         return dp[0][len - 1] > 0;
