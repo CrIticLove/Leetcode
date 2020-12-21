@@ -7,6 +7,10 @@ public:
     bool PredictTheWinner(vector<int> &nums)
     {
         const int len = nums.size();
+        if (len < 3)
+        {
+            return true;
+        }
         vector<vector<int>> dp(len, vector<int>(len));
         for (int i = 0; i < len; ++i)
         {
