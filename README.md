@@ -54,6 +54,7 @@
 - [Q746.使用最小花费爬楼梯](/leetcodes/dp/Q746.cpp)
 - [Q486.预测赢家](/leetcodes/dp/Q486.cpp)
 - [Q877.石子游戏](/leetcodes/dp/Q877.cpp)
+- [Q1140.石子游戏 II](/leetcodes/dp/Q1140.cpp)
 
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
