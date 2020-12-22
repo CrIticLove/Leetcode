@@ -55,6 +55,7 @@
 - [Q486.预测赢家](/leetcodes/dp/Q486.cpp)
 - [Q877.石子游戏](/leetcodes/dp/Q877.cpp)
 - [Q1140.石子游戏 II](/leetcodes/dp/Q1140.cpp)
+- [Q1406.石子游戏 III](/leetcodes/dp/Q1406.cpp)
 
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
