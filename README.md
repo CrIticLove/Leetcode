@@ -79,6 +79,7 @@
 - [Q49.字母异位词分组](/leetcodes/hash/Q49.cpp)
 - [Q290.单词规律](/leetcodes/hash/Q290.cpp)
 - [Q41.缺失的第一个正数](/leetcodes/hash/Q41.cpp)
+- [Q387.字符串中的第一个唯一字符](/leetcodes/hash/Q387.cpp)
 - [剑指Offer03.数组中的重复数字](/leetcodes/hash/JZ03.cpp)
 
 ## 递归
