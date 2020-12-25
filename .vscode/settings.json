@@ -1,5 +1,8 @@
 {
     "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
         "vector": "cpp",
         "algorithm": "cpp",
         "deque": "cpp",
@@ -17,6 +20,15 @@
         "utility": "cpp",
         "unordered_map": "cpp",
         "ostream": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "set": "cpp",
+        "string_view": "cpp",
+        "unordered_set": "cpp"
     }
 }
