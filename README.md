@@ -30,6 +30,7 @@
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
 - [Q40.组合总和 II](/leetcodes/backTrace/Q40.cpp)
 - [Q842.将数组拆分成斐波那契序列](/leetcodes/backTrace/Q842.cpp)
+- [Q980.不同路径 III](/leetcodes/backTrace/Q980.cpp)
 
 ## 动态规划
 - [Q70.爬楼梯](/leetcodes/dp/Q70.cpp)
@@ -88,7 +89,6 @@
 - [Q78.子集](/leetcodes/recursion/Q78.cpp)
 - [Q104.二叉树的最大深度](/leetcodes/recursion/Q104.cpp)
 - [Q226.翻转二叉树](/leetcodes/recursion/Q226.cpp)
-- [Q980.不同路径 III](/leetcodes/recursion/Q980.cpp)
 
 ## 树遍历
 
