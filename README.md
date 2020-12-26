@@ -71,6 +71,7 @@
 - [Q860.柠檬水找零](/leetcodes/greedy/Q860.cpp)
 - [Q738.单调递增的数字](/leetcodes/greedy/Q738.cpp)
 - [Q135.分发糖果](/leetcodes/greedy/Q135.cpp)
+- [Q455.分发饼干](/leetcodes/greedy/Q455.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
@@ -84,6 +85,10 @@
 - [剑指Offer03.数组中的重复数字](/leetcodes/hash/JZ03.cpp)
 
 ## 递归
+- [Q9.回文数](/leetcodes/recursion/Q9.js)
+- [Q78.子集](/leetcodes/recursion/Q78.cpp)
+- [Q104.二叉树的最大深度](/leetcodes/recursion/Q104.cpp)
+- [Q226.翻转二叉树](/leetcodes/recursion/Q226.cpp)
 
 ##3 树遍历
 
