@@ -90,7 +90,7 @@
 - [Q104.二叉树的最大深度](/leetcodes/recursion/Q104.cpp)
 - [Q226.翻转二叉树](/leetcodes/recursion/Q226.cpp)
 
-##3 树遍历
+## 树遍历
 
 ## 数字
 - [Q204.计数质数](/leetcodes/number/Q204.cpp)
