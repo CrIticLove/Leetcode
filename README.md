@@ -90,6 +90,7 @@
 - [Q78.子集](/leetcodes/recursion/Q78.cpp)
 - [Q104.二叉树的最大深度](/leetcodes/recursion/Q104.cpp)
 - [Q226.翻转二叉树](/leetcodes/recursion/Q226.cpp)
+- [Q654.最大二叉树](/leetcodes/recursion/Q654.cpp)
 
 ## 树遍历
 - [Q94.二叉树的中序遍历](/leetcodes/treeTranverse/Q94.cpp)
