@@ -92,6 +92,7 @@
 - [Q226.翻转二叉树](/leetcodes/recursion/Q226.cpp)
 
 ## 树遍历
+- [Q589.N叉树的前序遍历](/leetcodes/treeTranverse/Q589.cpp)
 
 ## 数字
 - [Q204.计数质数](/leetcodes/number/Q204.cpp)
