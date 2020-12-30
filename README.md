@@ -105,6 +105,7 @@
 - [Q145.二叉树的后序遍历](/leetcodes/treeTranverse/Q145.cpp)
 - [Q450.删除二叉树中的节点](/leetcodes/treeTranverse/Q450.cpp)
 - [Q589.N叉树的前序遍历](/leetcodes/treeTranverse/Q589.cpp)
+- [Q222.完全二叉树的节点个数](/leetcodes/treeTranverse/Q222.cpp)
 
 ## 数字
 - [Q204.计数质数](/leetcodes/number/Q204.cpp)
