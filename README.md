@@ -26,6 +26,7 @@
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
+- [Q86.分隔链表](/leetcodes/linkList/Q86.cpp)
 
 ## 回溯
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
