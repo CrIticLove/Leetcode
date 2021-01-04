@@ -110,6 +110,7 @@
 
 ## 数字
 - [Q204.计数质数](/leetcodes/number/Q204.cpp)
+- [Q509.斐波那契数](/leetcodes/number/Q509.cpp)
 
 ## 字符串
 - [Q14.最长公共前缀](/leetcodes/string/Q14.cpp)
