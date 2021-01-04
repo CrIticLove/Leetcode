@@ -22,9 +22,11 @@
 - [Q34.在排序数组中查找元素的第一个和最后一个位置](/leetcodes/array/Q34.cpp)
 - [Q164.最大间距](/leetcodes/array/Q164.cpp)
 - [Q48.旋转图像](/leetcodes/array/Q48.cpp)
+- [Q239.滑动窗口最大值](/leetcodes/array/Q239.cpp)
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
+- [Q86.分隔链表](/leetcodes/linkList/Q86.cpp)
 
 ## 回溯
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
@@ -75,6 +77,7 @@
 - [Q455.分发饼干](/leetcodes/greedy/Q455.cpp)
 - [Q330.按要求补齐数组](/leetcodes/greedy/Q330.cpp)
 - [Q435.无重叠区间](/leetcodes/greedy/Q435.cpp)
+- [Q605.种花问题](/leetcodes/greedy/Q605.cpp)
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
