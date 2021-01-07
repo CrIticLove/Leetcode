@@ -71,6 +71,7 @@
 
 ## 图
 - [Q399.除法求值](/leetcodes/graph/Q399.cpp)
+- [Q547.省份数量](/leetcodes/graph/Q547.cpp)
 
 ## 贪心算法
 - [Q976.三角形的最大周长](/leetcodes/greedy/Q976.cpp)
