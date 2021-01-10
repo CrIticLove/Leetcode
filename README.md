@@ -26,6 +26,7 @@
 - [Q239.滑动窗口最大值](/leetcodes/array/Q239.cpp)
 - [Q830.较大分组的位置](/leetcodes/array/Q830.cpp)
 - [Q189.旋转数组](/leetcodes/array/Q189.cpp)
+- [Q228.汇总区间](/leetcodes/array/Q228.cpp)
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
