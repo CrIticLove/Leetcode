@@ -1,5 +1,5 @@
 # Leetcode 练习
-朱一苇 Yiwei Zhu
+Jack Zhu
 
 - [Leetcode 练习](#leetcode-练习)
   - [数组](#数组)

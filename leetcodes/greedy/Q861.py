@@ -1,6 +1,6 @@
 from typing import List
 
-
+print("Hello world")
 class Solution:
     def matrixScore(self, A: List[List[int]]) -> int:
         height, width = len(A), len(A[0])
