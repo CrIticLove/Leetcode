@@ -33,6 +33,8 @@ Jack Zhu
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
 - [Q86.分隔链表](/leetcodes/linkList/Q86.cpp)
+- [Q2.两数相加](/leetcodes/linkList/Q2.cpp)
+
 
 ## 回溯
 - [Q39.组合总和](/leetcodes/backTrace/Q39.cpp)
@@ -67,6 +69,8 @@ Jack Zhu
 - [Q1510.石子游戏 IV](/leetcodes/dp/Q1510.cpp)
 - [Q1563.石子游戏 V<sub> 超时</sub>](/leetcodes/dp/Q1563.cpp)
 - [Q174.地下城游戏](/leetcodes/dp/Q174.cpp)
+- [Q11.乘最多水的容器](/leetcodes/dp/Q11.cpp)
+
 
 #### 背包问题
 <!-- - [Q322.零钱兑换](/leetcodes/dp/Q322.cpp) -->
