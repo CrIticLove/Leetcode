@@ -95,6 +95,8 @@ Jack Zhu
 - [Q330.按要求补齐数组](/leetcodes/greedy/Q330.cpp)
 - [Q435.无重叠区间](/leetcodes/greedy/Q435.cpp)
 - [Q605.种花问题](/leetcodes/greedy/Q605.cpp)
+- [Q1647.字符频次唯一的最小删除次数](/leetcodes/greedy/Q1647.py)
+
 
 ## 哈希
 - [Q1.两数之和](/leetcodes/hash/Q1.cpp)
