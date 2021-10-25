@@ -108,6 +108,7 @@ Jack Zhu
 - [Q41.缺失的第一个正数](/leetcodes/hash/Q41.cpp)
 - [Q387.字符串中的第一个唯一字符](/leetcodes/hash/Q387.cpp)
 - [Q205.同构字符串](/leetcodes/hash/Q205.cpp)
+- [Q128.最长连续数列](/leetcodes/hash/Q128.py)
 - [剑指Offer03.数组中的重复数字](/leetcodes/hash/JZ03.cpp)
 
 ## 递归
