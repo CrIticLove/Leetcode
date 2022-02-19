@@ -29,6 +29,7 @@ Jack Zhu
 - [Q228.汇总区间](/leetcodes/array/Q228.cpp)
 - [Q1232.缀点成线](/leetcodes/array/Q1232.cpp)
 - [Q628.三个数的最大乘积](/leetcodes/array/Q628.cpp)
+- [Q717.1比特与2比特字符](/leetcodes/array/Q117.py)
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
