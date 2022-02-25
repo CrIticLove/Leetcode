@@ -144,6 +144,10 @@ Jack Zhu
 - [Q767.重构字符串](/leetcodes/string/Q767.cpp)
 - [Q1370.上升下降字符串 C++](/leetcodes/string/Q1370.cpp)
 - [Q1370.上升下降字符串 JS](/leetcodes/string/Q1370.js)
+- [Q937.Reorder Data in Log Files](/leetcodes/string/Q937.py)
+- [1249.Minimum Remove to Make Valid Parentheses](/leetcodes/string/Q1249.py)
+- [680.Valid Palindrome II](/leetcodes/string/Q680.py)
+
 
 ## 其它
 
