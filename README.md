@@ -31,6 +31,8 @@ Jack Zhu
 - [Q628.三个数的最大乘积](/leetcodes/array/Q628.cpp)
 - [Q717.1比特与2比特字符](/leetcodes/array/Q117.py)
 - [Q1762.Buildings With an Ocean View](/leetcodes/array/Q1762.py)
+- [Q973.K Closest Points to Origin](/leetcodes/array/Q973.py)
+
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
@@ -112,6 +114,8 @@ Jack Zhu
 - [Q205.同构字符串](/leetcodes/hash/Q205.cpp)
 - [Q128.最长连续数列](/leetcodes/hash/Q128.py)
 - [剑指Offer03.数组中的重复数字](/leetcodes/hash/JZ03.cpp)
+- [Q560.Subarray Sum Equals K](/leetcodes/hash/Q560.py)
+
 
 ## 递归
 - [Q9.回文数](/leetcodes/recursion/Q9.js)
@@ -134,6 +138,8 @@ Jack Zhu
 - [Q222.完全二叉树的节点个数](/leetcodes/treeTranverse/Q222.cpp)
 - [Q208.Trie](/leetcodes/treeTranverse/Q208.py)
 - [Q314.Binary Tree Vertical Order Traversal](/leetcodes/treeTranverse/Q314.py)
+- [Q938.Range Sum of BST](/leetcodes/treeTranverse/Q938.py)
+- [Q1650.Lowest Common Ancestor of a Binary Tree III](/leetcodes/treeTranverse/Q1650.py)
 
 
 ## 数字
@@ -149,6 +155,9 @@ Jack Zhu
 - [Q937.Reorder Data in Log Files](/leetcodes/string/Q937.py)
 - [Q1249.Minimum Remove to Make Valid Parentheses](/leetcodes/string/Q1249.py)
 - [Q680.Valid Palindrome II](/leetcodes/string/Q680.py)
+- [Q71.Simplify Path](/leetcodes/string/Q71.py)
+- [Q921.Minimum Add to Make Parentheses Valid](/leetcodes/string/Q921.py)
+
 
 
 ## 其它
