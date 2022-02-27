@@ -30,6 +30,7 @@ Jack Zhu
 - [Q1232.缀点成线](/leetcodes/array/Q1232.cpp)
 - [Q628.三个数的最大乘积](/leetcodes/array/Q628.cpp)
 - [Q717.1比特与2比特字符](/leetcodes/array/Q117.py)
+- [Q1762.Buildings With an Ocean View](/leetcodes/array/Q1762.py)
 
 ## 链表
 - [Q61.旋转链表](/leetcodes/linkList/Q61.cpp)
@@ -132,6 +133,7 @@ Jack Zhu
 - [Q589.N叉树的前序遍历](/leetcodes/treeTranverse/Q589.cpp)
 - [Q222.完全二叉树的节点个数](/leetcodes/treeTranverse/Q222.cpp)
 - [Q208.Trie](/leetcodes/treeTranverse/Q208.py)
+- [Q314.Binary Tree Vertical Order Traversal](/leetcodes/treeTranverse/Q314.py)
 
 
 ## 数字
@@ -145,8 +147,8 @@ Jack Zhu
 - [Q1370.上升下降字符串 C++](/leetcodes/string/Q1370.cpp)
 - [Q1370.上升下降字符串 JS](/leetcodes/string/Q1370.js)
 - [Q937.Reorder Data in Log Files](/leetcodes/string/Q937.py)
-- [1249.Minimum Remove to Make Valid Parentheses](/leetcodes/string/Q1249.py)
-- [680.Valid Palindrome II](/leetcodes/string/Q680.py)
+- [Q1249.Minimum Remove to Make Valid Parentheses](/leetcodes/string/Q1249.py)
+- [Q680.Valid Palindrome II](/leetcodes/string/Q680.py)
 
 
 ## 其它
