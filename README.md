@@ -32,6 +32,9 @@ Jack Zhu
 - [Q717.1比特与2比特字符](/leetcodes/array/Q117.py)
 - [Q1762.Buildings With an Ocean View](/leetcodes/array/Q1762.py)
 - [Q973.K Closest Points to Origin](/leetcodes/array/Q973.py)
+- [Q31.Next Permutation](/leetcodes/array/Q31.py)
+- [Q56.Merge Intervals](/leetcodes/array/Q56.py)
+
 
 
 ## 链表
@@ -140,6 +143,9 @@ Jack Zhu
 - [Q314.Binary Tree Vertical Order Traversal](/leetcodes/treeTranverse/Q314.py)
 - [Q938.Range Sum of BST](/leetcodes/treeTranverse/Q938.py)
 - [Q1650.Lowest Common Ancestor of a Binary Tree III](/leetcodes/treeTranverse/Q1650.py)
+- [Q199.Binary Tree Right Side View](/leetcodes/treeTranverse/Q199.py)
+- [Q543.Diameter of Binary Tree](/leetcodes/treeTranverse/Q543.py)
+
 
 
 ## 数字
@@ -157,6 +163,7 @@ Jack Zhu
 - [Q680.Valid Palindrome II](/leetcodes/string/Q680.py)
 - [Q71.Simplify Path](/leetcodes/string/Q71.py)
 - [Q921.Minimum Add to Make Parentheses Valid](/leetcodes/string/Q921.py)
+- [Q791.Custom Sort String](/leetcodes/string/Q791.py)
 
 
 
