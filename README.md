@@ -34,6 +34,9 @@ Jack Zhu
 - [Q973.K Closest Points to Origin](/leetcodes/array/Q973.py)
 - [Q31.Next Permutation](/leetcodes/array/Q31.py)
 - [Q56.Merge Intervals](/leetcodes/array/Q56.py)
+- [Q1710.Maximum Units on a Truck](/leetcodes/array/Q1710.py)
+- [Q1151.Minimum Swaps to Group All 1's Together](/leetcodes/array/Q1151.py)
+- [Q1167.Minimum Cost to Connect Sticks](/leetcodes/array/Q1167.py)
 
 
 
