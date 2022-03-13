@@ -82,6 +82,7 @@ Jack Zhu
 - [Q174.地下城游戏](/leetcodes/dp/Q174.cpp)
 - [Q11.乘最多水的容器](/leetcodes/dp/Q11.cpp)
 - [Q42.Trapping Rain Water](/leetcodes/dp/Q42.py)
+- [Q1567.Maximum Length of Subarray With Positive Product](/leetcodes/dp/Q1567.py)
 
 
 
