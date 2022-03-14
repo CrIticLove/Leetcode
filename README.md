@@ -38,6 +38,7 @@ Jack Zhu
 - [Q1151.Minimum Swaps to Group All 1's Together](/leetcodes/array/Q1151.py)
 - [Q1167.Minimum Cost to Connect Sticks](/leetcodes/array/Q1167.py)
 - [Q1648.Sell Diminishing-Valued Colored Balls(exceed)](/leetcodes/array/Q1648.py)
+- [Q49.Group Anagrams](/leetcodes/array/Q49.py)
 
 
 
