@@ -97,6 +97,7 @@ Jack Zhu
 - [Q1202.交换字符串中的元素](/leetcodes/graph/Q1202.cpp)
 - [Q210.课程表 II](/leetcodes/graph/Q210.cpp)
 - [Q1730.Shortest Path to Get Food](/leetcodes/graph/Q1730.cpp)
+- [Q994.Rotting Oranges](/leetcodes/graph/Q994.cpp)
 
 
 ## 贪心算法
