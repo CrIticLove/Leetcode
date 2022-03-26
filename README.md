@@ -157,6 +157,7 @@ Jack Zhu
 - [Q1650.Lowest Common Ancestor of a Binary Tree III](/leetcodes/treeTranverse/Q1650.py)
 - [Q199.Binary Tree Right Side View](/leetcodes/treeTranverse/Q199.py)
 - [Q543.Diameter of Binary Tree](/leetcodes/treeTranverse/Q543.py)
+- [Q1530.Number of Good Leaf Nodes Pairs](/leetcodes/treeTranverse/Q1530.py)
 
 
 
