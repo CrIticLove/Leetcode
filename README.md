@@ -54,6 +54,7 @@ Jack Zhu
 - [Q40.组合总和 II](/leetcodes/backTrace/Q40.cpp)
 - [Q842.将数组拆分成斐波那契序列](/leetcodes/backTrace/Q842.cpp)
 - [Q980.不同路径 III](/leetcodes/backTrace/Q980.cpp)
+- [Q78.Subsets](/leetcodes/backTrace/Q78.py)
 
 ## 动态规划
 - [Q70.爬楼梯](/leetcodes/dp/Q70.cpp)
@@ -85,6 +86,7 @@ Jack Zhu
 - [Q11.乘最多水的容器](/leetcodes/dp/Q11.cpp)
 - [Q42.Trapping Rain Water](/leetcodes/dp/Q42.py)
 - [Q1567.Maximum Length of Subarray With Positive Product](/leetcodes/dp/Q1567.py)
+- [Q64.Minimum Path Sum](/leetcodes/dp/Q64.py)
 
 
 
