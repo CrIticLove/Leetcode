@@ -39,6 +39,7 @@ Jack Zhu
 - [Q1167.Minimum Cost to Connect Sticks](/leetcodes/array/Q1167.py)
 - [Q1648.Sell Diminishing-Valued Colored Balls(exceed)](/leetcodes/array/Q1648.py)
 - [Q49.Group Anagrams](/leetcodes/array/Q49.py)
+- [1002.Find Common Characters](/leetcodes/array/Q1002.py)
 
 
 
